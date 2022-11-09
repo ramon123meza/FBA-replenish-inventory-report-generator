@@ -1,0 +1,2 @@
+This program allows the creation of a new shipping plan based on the restock inventory report, it requires importing the FBA restock inventory report and another report with SKUs that need to be ignored in case some of the SKUs are already in the production list. It also allows to import of a payment report for a given period and create a report with top-selling items for that period.
+more information on implementation please reach out to ramonemeza1989@gmail.com
